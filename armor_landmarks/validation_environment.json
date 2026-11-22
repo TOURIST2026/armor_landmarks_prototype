@@ -1,0 +1,10 @@
+{
+  "python": "3.11.15 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:12:53) [MSC v.1942 64 bit (AMD64)]",
+  "interpreter": "E:\\anaconda3\\envs\\yolo\\python.exe",
+  "torch": "2.11.0+cu128",
+  "torchvision": "0.26.0+cu128",
+  "opencv": "5.0.0",
+  "numpy": "2.4.4",
+  "cuda_available": true,
+  "device": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}
